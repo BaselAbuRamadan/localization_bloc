@@ -28,6 +28,7 @@ class MyApp extends StatelessWidget {
               return MaterialApp(
                 locale: state.local,
 
+
                 supportedLocales: const [
                   //iso code from web
                   Locale('en'),
@@ -115,3 +116,4 @@ class MyApp extends StatelessWidget {
 //     );
 //   }
 // }
+//last edit
